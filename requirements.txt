@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+googlemaps
+sklearn
+matplotlib
+seaborn
+platform
+folium
+json
