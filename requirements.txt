@@ -5,6 +5,5 @@ googlemaps
 scikit-learn
 matplotlib
 seaborn
-platform
 folium
 json
