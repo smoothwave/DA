@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 googlemaps
-sklearn
+scikit-learn
 matplotlib
 seaborn
 platform
