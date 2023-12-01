@@ -85,9 +85,6 @@ crime_anal_norm['검거'] = np.sum(crime_anal_norm[col], axis=1)
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-%matplotlib inline
-
 import platform
 
 path = "c:/Windows/Fonts/malgun.ttf"
